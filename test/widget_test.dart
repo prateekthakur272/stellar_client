@@ -1,1 +1,3 @@
-void main(){}
+void main(){
+  test('test', () => 'test pass');
+}
